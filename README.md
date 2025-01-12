@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Rinsha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
